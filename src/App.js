@@ -106,6 +106,9 @@ function App() {
             </button>
           </form>
         </div>
+                    <footer className="mt-12 text-center text-gray-500 text-sm pb-8">
+          made by <a href="https://github.com/AB-7373" className="text-indigo-500 hover:text-indigo-600 font-bold" target="_blank" rel="noreferrer">AB-7373</a>
+        </footer>
 
       </div>
     </div>
